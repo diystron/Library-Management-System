@@ -1,14 +1,11 @@
-# Library-Management-System
-Library Management Sysytem merupakan sebuah software untuk mengelola perpustakaan. Software ini dikembangkan dan untuk Perpustakaan Dusun Gandu 1 yang berada di Bendungan, Karangmojo, Gunungkidul, Yogyakarta. Pembuatan software Library Management Sysytem dituukan sebagai Program Individu KKN UNY 2023. Produk Software Library Management Sysytem harapannya kedepan dan seterusnya dapat membantu masyarakat Dusun Gandu 1 khususnya dalam mengelola perpustakaan. Tujuan lain dari dibuatnya Produk Software Library Management Sysytem adalah untuk penerapan teknologi digitalisasi khususnya pada bidang perpustakaan dan juga sebagai pengenalan masyarakat terhadap teknologi.
+# 🙏👍👨‍💼Library Management System (with Python)👨‍🎓
+## 👨‍💼My Projects shown on below : -
 
-Software Library Management System dibuat oleh:
-+ Nama : Bagas Arya Putra
-+ Prodi : Pendidikan Teknik Elektronika
-+ Fakultas : Teknik
-+ PTN : Universutas Negeri Yogyakarta
-+ Kelompok : KKN R 8546 UNY 2023
-  
-## Proges Pengembangan Software
-nbdbsaa
-
-### 15/12/2023
+![Screenshot (73)](https://user-images.githubusercontent.com/68802755/168081631-a2d567dc-6f92-427e-84dd-8fc1c9036a06.png)
+![Screenshot (74)](https://user-images.githubusercontent.com/68802755/168081638-05a3933b-9f36-4c6f-98a4-581fd265123d.png)
+![Screenshot (75)](https://user-images.githubusercontent.com/68802755/168081656-d8aa207e-1363-4b14-9427-03ad0a9dd9af.png)
+![Screenshot (76)](https://user-images.githubusercontent.com/68802755/168081697-bfb572a6-e867-432f-a537-7c09084cceb2.png)
+![Screenshot (77)](https://user-images.githubusercontent.com/68802755/168081732-7157dcd3-35af-485d-bd10-280e58af1310.png)
+![Screenshot (79)](https://user-images.githubusercontent.com/68802755/168081743-4bad3fb8-e940-4d1b-8bbf-ca60f0b07123.png)
+![Screenshot (78)](https://user-images.githubusercontent.com/68802755/168081757-81b1855b-f2a0-46d3-aea1-39f6ac8e960e.png)
+![Screenshot (80)](https://user-images.githubusercontent.com/68802755/168081763-51250177-d14d-4ee8-a7cb-93ac4c13d563.png)
