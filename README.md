@@ -7,5 +7,5 @@ produk software Library Management Sysytem dibuat dan dikembangkan oleh:
 + Fakultas : Teknik
 + PTN : Universitas Negeri Yogyakarya
 
-## Progress Pengenbangan Produk
+## Progress Pengembangan Produk
 ### 15/12/2023
