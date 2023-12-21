@@ -6,6 +6,3 @@ produk software Library Management Sysytem dibuat dan dikembangkan oleh:
 + Prodi : Pendidikan Teknik Elektronika
 + Fakultas : Teknik
 + PTN : Universitas Negeri Yogyakarya
-
-## Progress Pengembangan Produk
-### 15/12/2023
